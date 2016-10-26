@@ -1,0 +1,15 @@
+LOCAL_PATH := $(call my-dir)
+#$(warning $(LOCAL_PATH))
+
+include $(CLEAR_VARS)
+LOCAL_MODULE    := ffmpeg
+LOCAL_LDLIBS := -llog -ljnigraphics -lz -landroid
+LOCAL_CFLAGS := -Wdeprecated-declarations
+ANDROID_LIB := -landroid
+LOCAL_C_INCLUDES:=/home/android-ndk/android-ndk-r13/ffmpeg-3.0.4
+LOCAL_SRC_FILES :=  com_xzy_myjnitest_JNIMethod.c ffmpeg.c ffmpeg_filter.c ffmpeg_opt.c cmdutils.c
+LOCAL_SHARED_LIBRARIES := libavformat libavcodec libswscale libavutil libswresample libavfilter libavdevice
+
+include $(BUILD_SHARED_LIBRARY)
+$(call import-add-path,/home/android-ndk/android-ndk-r13/)
+$(call import-module,ffmpeg-3.0.4/android/arm)

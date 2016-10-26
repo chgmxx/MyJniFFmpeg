@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/xzy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8ec14a1b5b7e90b2b2afdce7e2897f6bcdc59495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="335d290b26417cea5bb6f4017efe3138b547172b">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a35de774a391491a09a9c257630d0db0649f4751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_8aeb7ba9c9d4f8217244627e2bfccf20c2ffa953/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c612d57f16d2eff6dea646ca8106c3b4c3a38c07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_86ce11d2c05a0b8260d20743374ee40cea138def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3bd4001d5c614cf3d3a071ab43cc790932e0aa83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_14e489bcaaf75a1c387deb89c775b164abf0417b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_fb4a4ea9b83538101ed549984b60bbef327ca8e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_bab2a8a30ee9a7cdc2d1479b67a3fd8334fb1654/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6eac945f37d05516629a3c24c3f570bba49fd505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_28fa46866bc674e5bae3c6ccdb3c89d94f7d8a47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e4bfd621d47a7ba2a8cd44ccec6c10848e26f95b">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_018c769b1cc37a8b7c80084d244bb64952ae32c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_84a5651e97170bb3c90f06efb5fb516380b3d19f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_03e72e339254a54d384dccd387788d917338907e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_aad912e324b43538ab470cf923b18e5634680622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_67b4caf446e6a3e71b2705804ef7f9bcd7f8f66b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/xzy/AndroidStudioProjects/MyJNITest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_8a7e8e84118f36ec24bfdce10bad81073600c0de/classes.dex" />
+    </item>
+
+</items>
